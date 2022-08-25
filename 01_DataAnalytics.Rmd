@@ -1,0 +1,21 @@
+# Data Analytics
+
+## What is it? {-}
+Data analytics is not a position or a title, but a specialty. It lives under the umbrella of data science, alongside machine learning and statistics. Data analytics focuses on the exploration and search of new knowledge that can be obtained from data.
+
+## How does it differ from data analysis? {-}
+Data analysis refers to a specific _phase_ of the 'Data Analytics Pathway'. Data analysis focuses on drawing specific insights from a dataset for data-drive decision-making.
+
+## So you mentiond 'phase' earlier... What are the other phases? {-}
+According to Google, there are 6 phases to the Data Analytics Pathway:
+  
+  1. Ask
+  2. Prepare
+  3. Process
+  4. Analyze
+  5. Share
+  6. Act
+  
+
+
+Data Analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making

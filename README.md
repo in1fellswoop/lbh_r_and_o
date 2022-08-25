@@ -1,30 +1,40 @@
-This is a template for creating an [HTML GitBook style](https://bookdown.org/yihui/bookdown/html.html#gitbook-style) **[bookdown](https://github.com/rstudio/bookdown)** book, [hosted on GitHub Pages](https://bookdown.org/yihui/bookdown/github.html). It is based on the one created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. It assumes you know how to use git/GitHub and R Markdown, and have some familiarity with the **bookdown** package. If you don't, the package author Yihue Xie's RStudio webinar *[Introduction to Bookdown (R Package)](https://www.youtube.com/watch?v=dVqVscgwSpw)* provides an excellent introduction. In addition, check out [*bookdown: Authoring Books and Technical Documents with R Markdown*](https://bookdown.org/yihui/bookdown), also by Yihui Xie, both for the content and the format--it is itself a **bookdown** book.
+# LBH Research and Outcomes Training Guide {-}
+This guide provides training guides on the most in demand software/tools required for employees under the Research and Outcomes division.
 
-### Render the book
+## Version
+```{r}
+  R version      4.2.1 (2022-06-23 ucrt)                              
+  year           2022                             
+  month          06                               
+  day            23                               
+  svn rev        82513                            
+  language       R
+```
 
-- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
+## Sections
+Each section will provide insight on how to use each tool/software/service/training for LBH projects. This will cover general knowledge base for each section, along with more specific use-cases as needed within the LBH R&O division.
 
-- [ ] 2. Render locally with `bookdown::render_book("index.Rmd")`.
+Here are the sections:
+  
+  * __Introduction__
+    * A brief introduction into the training guide
+  * __Data Analytics__
+    * LBH methodology and approach to data analysis and research projects
+  * __R/Rstudio__
+    * Programming language and IDE
+  * __Power BI__
+    * Microsoft data analytics application and service (Desktop and Online version)
+  * __KIPU__
+    * The EMR that LBH uses
+  * __Data Warehouse__
+    * The data storage service LBH uses
 
-- [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
+## Contributing
+This book is a private project, and therefore I am not actively looking for external input.
 
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
+## Additional Notes
 
-### Edit README
+*This repo was initially generated from a bookdown template available here: <https://github.com/jtr13/bookdown-template>.*
 
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:
-
-*This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.*
-
-(And starring the repo would be nice too so I can see if this is getting used or not!)
-
-### Demo Video
-
-A demo video showing how to create a **bookdown book** following these instructions: http://bit.ly/fiveminutebookdown
-
-### Additional features
-
-Please consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
-
+Guide to **bookdown**: <https://bookdown.org/yihui/bookdown>
