@@ -3,7 +3,7 @@ This guide provides training guides on the most in demand software/tools require
 
 ## Version
 ```{r}
-  R version      4.2.1 (2022-06-23 ucrt)                              
+  version      4.2.1 (2022-06-23 ucrt)                              
   year           2022                             
   month          06                               
   day            23                               
